@@ -182,13 +182,6 @@ window.addEventListener("resize",betterThrottleFunction)
 
 
 
-
-
-
-
-
-
-
 // throw new Error("error... is occured")
 
 
